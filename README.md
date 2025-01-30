@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help with **finding for a company to continue training as a developer with a work-study program from March 2025 for 15 months in the Paris region**
 
+- 💻 How to see my work **[Portfolio](https://portfolio-claire-cellier.vercel.app/)**
+
 - 📫 How to reach me **c.cellier@gmail.com**
 
 - ⚡ Fun fact **I love potatoes 🥔**

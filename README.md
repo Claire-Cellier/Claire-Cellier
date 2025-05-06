@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Claire</h1>
 <h3 align="center">A passionate fullstack developer from Paris 🥐</h3>
 
-- 🔭 I’m currently working on [GOAT - GO Apprendre & Transmettre](https://github.com/WildCodeSchool-2024-09/JS-Paris-P3-goat)
+- 🔭 I’m currently working on [Pokedex Angular]([https://github.com/Claire-Cellier/Angular-Pokedex])
 
-- 🌱 I’m currently learning **Javascript, React, Express, SQL**
+- 🌱 I’m currently learning **Angular, JAVA**
 
 - 🤝 I’m looking for help with **finding for a company to continue training as a developer with a work-study program from March 2025 for 15 months in the Paris region**
 
